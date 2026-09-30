@@ -1,4 +1,4 @@
-# Tugas Praktikum 4 - Array, List, Iterator
+<h1 align="center">Tugas Praktikum 4 - Array, List, Iterator</h1>
 <p align="center">
  <img width="286" height="286" alt="image" src="https://github.com/user-attachments/assets/5e2ec322-9379-4ad8-91be-de301db61dff"/><br>
   <b>Nama: Hanung Yoga Adi Pramono<br>
